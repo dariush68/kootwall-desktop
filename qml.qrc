@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Content/font/Icon.js</file>
+        <file>Content/font/IRANSans.ttf</file>
+        <file>Content/font/IRANSans_Black.ttf</file>
+        <file>Content/font/IRANSans_Bold.ttf</file>
+        <file>Content/font/IRANSans_Light.ttf</file>
+        <file>Content/font/IRANSans_Medium.ttf</file>
+        <file>Content/font/IRANSans_UltraLight.ttf</file>
+        <file>Content/font/materialdesignicons-webfont.ttf</file>
+        <file>Content/Codes/REST/apiservice.js</file>
+        <file>Content/Codes/ModelClass/BaseCategory.qml</file>
+        <file>Content/Codes/ModelClass/MaterialCategory.qml</file>
+        <file>Content/Codes/Utils/MButton.qml</file>
+        <file>README.md</file>
+        <file>Content/Codes/ModelClass/Category.qml</file>
+        <file>Content/Codes/ModelClass/MaterialItem.qml</file>
+        <file>Content/Codes/ModelClass/SubMaterial.qml</file>
+        <file>Content/Codes/ModelClass/Company.qml</file>
+        <file>Content/Codes/ModelClass/NavigationGuid.qml</file>
+        <file>Content/Codes/ModelClass/CompanyProduct.qml</file>
+        <file>Content/Codes/AddProduct.qml</file>
+        <file>Content/Images/logo.png</file>
+        <file>Content/Codes/Utils/SearchField.qml</file>
+        <file>Content/Codes/Utils/Util.js</file>
+        <file>Content/Images/logo_icon.png</file>
+        <file>Content/Codes/ModelClass/SubSubMaterial.qml</file>
+        <file>Content/Codes/Utils/CategoryFilter.qml</file>
+        <file>Content/Codes/Utils/DeleteWin.qml</file>
+        <file>Content/Codes/Utils/GlobalSearch.qml</file>
+        <file>Content/Codes/Utils/TxtItmOfListView.qml</file>
+        <file>Content/Codes/Utils/MsgPopup.qml</file>
+        <file>Content/Codes/Utils/CompanySearch.qml</file>
+        <file>Content/Codes/Utils/ActivityLogger.qml</file>
+        <file>Content/Images/logo_icon.ico</file>
+        <file>Content/Codes/Utils/EditWin.qml</file>
+        <file>Content/Codes/Utils/Pagination.qml</file>
+        <file>Content/Codes/Utils/CategoryLeaves.qml</file>
+        <file>Content/Codes/Utils/UploadProductImg.qml</file>
+    </qresource>
+</RCC>
